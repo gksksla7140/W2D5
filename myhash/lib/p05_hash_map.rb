@@ -1,5 +1,6 @@
 require_relative 'p04_linked_list'
 
+
 class HashMap
   attr_reader :count
 
